@@ -1,6 +1,5 @@
-# hello-world
-re-learning
+This repository holds my factorio save files.
 
-It's been awhile since I've used Git! I need to start using it again to build my portfolio!
+If you know what factorio is then you understand...
 
-I'm trying to learn more about git and saving my factorio save files here!
+The factory must grow.
